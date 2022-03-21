@@ -18,3 +18,4 @@ You'll be able to leverage a keypoint detection model to build a sequence of key
 - ## THANKS 🤭
 ![thanks](https://user-images.githubusercontent.com/44187690/159207201-e4deda40-e400-405c-a99d-b2c079f03a24.jpeg)
 
+<h2>NB: here there are still only 3 sign languages still need to be developed for some other sign languages</h2>
